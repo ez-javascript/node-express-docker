@@ -1,0 +1,22 @@
+{
+  "name": "express-docker",
+  "version": "1.0.0",
+  "description": "A simple Express server, ready to be packaged up into a Docker container.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ez-javascript/node-express-docker.git"
+  },
+  "author": "ez.javascript",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ez-javascript/node-express-docker/issues"
+  },
+  "homepage": "https://github.com/ez-javascript/node-express-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
